@@ -1,2 +1,2 @@
-nombre = "elisuka"
+nombre = "elisuka de nutricion"
 print ("hola"+ nombre) 
