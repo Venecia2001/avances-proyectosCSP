@@ -3,7 +3,7 @@ def suma(*num):
 
     
 print(suma(2,3,4,5))
-print("hola catalina ojos bonitos")
+print("hola catalina ojos de colores diferentes")
 print(suma(2,3,4,5,5,12))
 
-print("hola kari m")
+print("hola kari coromoto")
